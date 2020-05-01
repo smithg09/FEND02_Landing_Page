@@ -14,7 +14,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
- - The project is published on GitHub Pages. To view, click on this link: [link to project]()
+ - The project is published on GitHub Pages. To view, click on this link: [link to project](https://smithg09.github.io/FEND02_Landing_Page/)
  - To launch this website, simply clone the repo and open the `index.html` file in the browser. 
 
 
